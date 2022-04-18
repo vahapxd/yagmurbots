@@ -94,7 +94,7 @@ Aşağıda bulunan butonlardan **Etkinlik Katılımcısı alarak konserlerimizde
     }
 });
 
-client.login("OTY1NjM4NDY0NDU0NDA2MjE1.Yl2G5g.cL27_xOrs6HNQMBxvgGTyu7aBJQ").then(x => console.log(`Bot ${client.user.username} olarak giriş yaptı!`)).catch(err => console.log(`Bot Giriş yapamadı sebep: ${err}`));
+client.login(process.env.token).then(x => console.log(`Bot ${client.user.username} olarak giriş yaptı!`)).catch(err => console.log(`Bot Giriş yapamadı sebep: ${err}`));
 
 client.on('message', async message => {
 if (message.content === 'chaos!fakekatıl') { 
