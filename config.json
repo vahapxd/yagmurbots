@@ -1,0 +1,90 @@
+{
+    "bot": {
+        "owner": "728931818182541392",
+        "prefix": ".",
+        "BotStatus": "BUBBLES ❤️",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "961564402652446721",
+            "log": "965624998083567646",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "965625330511528006",
+            "roles": "965625603271323730",
+            "log": "965625867961253938",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "961564393383006218",
+            "roles": "961564556101046282",
+            "log": "965626279460237332",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "965626491301920778",
+            "log": "965627022602821692"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "965627179650154556",
+        "voicelog": "965627208867668118",
+        "taglog": "965627227897217084"
+    },
+    "roles": {
+        "boosterrole": "964523354419781632",
+        "viprole": "961564414916583434",
+        "designerrole": "965627570617987134",
+        "musiciansrole": "965627816555196486",
+        "team": "xxxxx",
+        "sponsored": "965628301408346173"
+    },
+    "channels": {
+        "chat": "961564703988015124",
+        "voicechannel": "962319667907686440",
+        "welcomechannel": "961564654897856542",
+        "rules": "961564679015137300"
+    },
+    "parents": {
+        "publicparents": "PUBLİC KATEGORİSİ ID"
+    },
+    "registration": {
+        "unregistered": "961564565563387914",
+        "man": ["961564429038792744", ""],
+        "woman": ["961564424303439882", ""],
+        "staff": "961564388777672744",
+        "GuilDTag": "◈",
+        "TagSymbol": "Kayıt Olunca İsim Yaşın Önüne Koyacağı Seml",
+        "autonickname": "◈ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "965636625981907045",
+        "susoeciosnickname": "◈ Şüpheli Hesap",
+        "oneman": "961564429038792744",
+        "onewoman": "961564424303439882",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "961163891444953098",
+        "GuilDName": "🦋 BUBBLES 👸🏻",
+        "GuildOwnerRole": ["965281147783364629"]
+    },
+    "emojis": {
+        "tada": "TADA EMOJİSİ ID",
+        "yes": "<a:success:965637420206944346>",
+        "no": "<a:red:965637587547070534>"
+    },
+    "buttons": {
+        "giveaway": "965639526334730270",
+        "activity": "965639753078820934"
+    }
+}
